@@ -1,0 +1,347 @@
+[14-Jun-2012 14:11:29] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/business/public_html/management/source/setup/index.php on line 222
+[14-Jun-2012 14:11:29] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/business/public_html/management/source/setup/index.php on line 271
+[14-Jun-2012 14:12:36] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/business/public_html/management/source/setup/index.php on line 223
+[14-Jun-2012 14:12:36] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/business/public_html/management/source/setup/index.php on line 272
+[14-Jun-2012 14:14:50] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/business/public_html/management/source/setup/index.php on line 223
+[14-Jun-2012 14:14:50] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/business/public_html/management/source/setup/index.php on line 272
+[13-Feb-2015 14:31:49 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 14:31:49 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 14:31:49 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 14:33:26 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 14:33:26 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 15:15:02 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 15:15:02 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 15:21:02 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 15:21:02 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[13-Feb-2015 15:21:09 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[25-Feb-2015 18:17:06 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[25-Feb-2015 18:17:06 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[25-Feb-2015 18:17:11 Antarctica/Macquarie] PHP Warning:  Illegal string offset 'module_id' in /home2/commpro/public_html/beta/management/source/functions.php on line 1874
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: step in /home/betabciccom/public_html/admin/source/setup/index.php on line 14
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: ../SCRIPT_NAME in /home/betabciccom/public_html/admin/source/setup/index.php on line 141
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:46:31 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 168
+[09-Feb-2017 16:46:41 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:46:41 Australia/Sydney] PHP Notice:  Undefined index: step in /home/betabciccom/public_html/admin/source/setup/index.php on line 14
+[09-Feb-2017 16:46:41 Australia/Sydney] PHP Notice:  Undefined index: ../SCRIPT_NAME in /home/betabciccom/public_html/admin/source/setup/index.php on line 141
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Deprecated:  Function split() is deprecated in /home/betabciccom/public_html/admin/source/setup/index.php on line 34
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined variable: values in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: f_name in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: f_heading in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: f_type in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: f_type_value in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: valid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: jvalid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: dtype in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: dadd in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: javascript in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Undefined index: maxnum in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:33 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 55
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Deprecated:  Function split() is deprecated in /home/betabciccom/public_html/admin/source/setup/index.php on line 34
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined variable: values in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: f_name in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: f_heading in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: f_type in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: f_type_value in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: valid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: jvalid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: dtype in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: dadd in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: javascript in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Undefined index: maxnum in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:48:43 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 55
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: step in /home/betabciccom/public_html/admin/source/setup/index.php on line 14
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: ../SCRIPT_NAME in /home/betabciccom/public_html/admin/source/setup/index.php on line 141
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:02 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 168
+[09-Feb-2017 16:50:08 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:50:08 Australia/Sydney] PHP Notice:  Undefined index: step in /home/betabciccom/public_html/admin/source/setup/index.php on line 14
+[09-Feb-2017 16:50:08 Australia/Sydney] PHP Notice:  Undefined index: ../SCRIPT_NAME in /home/betabciccom/public_html/admin/source/setup/index.php on line 141
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Deprecated:  Function split() is deprecated in /home/betabciccom/public_html/admin/source/setup/index.php on line 34
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined variable: values in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: f_name in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: f_heading in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: f_type in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: f_type_value in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: valid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: jvalid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: dtype in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: dadd in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: javascript in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Undefined index: maxnum in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:50:27 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 55
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: step in /home/betabciccom/public_html/admin/source/setup/index.php on line 14
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: ../SCRIPT_NAME in /home/betabciccom/public_html/admin/source/setup/index.php on line 141
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:50:39 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 168
+[09-Feb-2017 16:50:47 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:50:47 Australia/Sydney] PHP Notice:  Undefined index: step in /home/betabciccom/public_html/admin/source/setup/index.php on line 14
+[09-Feb-2017 16:50:47 Australia/Sydney] PHP Notice:  Undefined index: ../SCRIPT_NAME in /home/betabciccom/public_html/admin/source/setup/index.php on line 141
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Deprecated:  Function split() is deprecated in /home/betabciccom/public_html/admin/source/setup/index.php on line 34
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined variable: values in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: f_name in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: f_heading in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: f_type in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: f_type_value in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: valid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: valid_3 in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: valid_4 in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: jvalid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: jvalid_3 in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: jvalid_4 in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: dtype in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: dadd in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: javascript in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: adding_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 40
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Undefined index: maxnum in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:51:38 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 55
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: step in /home/betabciccom/public_html/admin/source/setup/index.php on line 14
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: ../SCRIPT_NAME in /home/betabciccom/public_html/admin/source/setup/index.php on line 141
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 158
+[09-Feb-2017 16:55:07 Australia/Sydney] PHP Notice:  Undefined index: table in /home/betabciccom/public_html/admin/source/setup/index.php on line 168
+[09-Feb-2017 16:55:16 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:55:16 Australia/Sydney] PHP Notice:  Undefined index: step in /home/betabciccom/public_html/admin/source/setup/index.php on line 14
+[09-Feb-2017 16:55:16 Australia/Sydney] PHP Notice:  Undefined index: ../SCRIPT_NAME in /home/betabciccom/public_html/admin/source/setup/index.php on line 141
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/betabciccom/public_html/admin/source/functions/config.php on line 20
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Deprecated:  Function split() is deprecated in /home/betabciccom/public_html/admin/source/setup/index.php on line 34
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined variable: values in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: f_name in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: f_heading in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: f_type in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: f_type_value in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: valid_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: valid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: jvalid_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: jvalid in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: dtype_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: dtype in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: dadd_0 in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: dadd in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: javascript in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Undefined index: maxnum in /home/betabciccom/public_html/admin/source/setup/index.php on line 41
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 46
+[09-Feb-2017 16:56:17 Australia/Sydney] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/betabciccom/public_html/admin/source/setup/index.php on line 55

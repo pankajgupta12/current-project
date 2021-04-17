@@ -1,0 +1,131 @@
+.bodytext {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #25205E;
+
+	text-decoration: none;
+
+}
+
+.boldtext {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight: bold;
+
+	text-decoration: none;
+
+}
+
+.formbuttons {
+
+	background-color: #000000;
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #FFFFFF;
+
+	text-decoration: none;
+
+	padding: 1px;
+
+	border: 1px solid #25205E;
+
+
+
+}
+
+.formfields {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+}
+
+.text11 {
+
+	font-family: Arial;
+
+	font-size: 11px;
+
+	text-decoration: none;
+
+}
+
+.text12 {
+
+	font-family: Arial;
+
+	font-size: 12px;
+
+	text-decoration: none;
+
+}
+
+form {  margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}.text10 {  font-family: Arial; font-size: 10px}
+
+.linkwht {  color: #FFFFFF; text-decoration: none}
+
+.linkyellow {  color: #FFCC00; text-decoration: none}
+
+.linkblack {  color: #000000; text-decoration: none}
+
+.linkblue {  color: #000099; text-decoration: none}
+
+.text14 {  font-family: Arial; font-size: 14px}
+
+.text16 {  font-family: Arial; font-size: 16px}
+
+a:hover {
+
+	text-decoration: underline;
+
+}
+
+.formfields {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #483f3f;
+    text-decoration: none;
+    background-color: #FFFFFF;
+    border: 1px solid #e0cfcf;
+    padding: 2px 2px 2px 2px;
+}
+
+.formfields_pr {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #483f3f;
+    text-decoration: none;
+    background-color: #FFFFFF;
+    border: 1px solid #e0cfcf;
+    padding: 2px 2px 2px 2px;
+}
+
+.bodytext {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.tableborders {  border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+
+.tableborders2 {  border: #999999; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+
+.header {  font-family: Impact; font-size: 30px; font-weight: bold; color: #FFFFFF}
+
+.tableborders3 { border: 1px #421C6B solid}

@@ -1,0 +1,1 @@
+<iframe  src="<?php echo exchang_email; ?>/mail/index.php?task=bcic_email" width="100%" height="87%" name="iframe_a" ></iframe>

@@ -1,0 +1,100 @@
+/* Not to invent things twice I used css for colors and geometry configuration */
+body {
+	font-family: arial;
+	font-size : 11px;
+}
+
+/* tag for whole calendar table */
+.calTable {
+	width: 100%;
+	border : 1px solid black;
+	padding: 0px;
+	margin: 0px;
+}
+
+/* tag for next/previous month cells */
+.calMonth {
+	background: #000000;
+	padding: 2px;
+	text-align: center;
+}
+
+/* tag for month and year header */
+.calHeader {
+	background: #000000;
+	font-family: tahoma, verdana, arial;
+	padding: 2px;
+	font-size : 12px;
+	text-align: center;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+/* tag for weekdays header */
+.calWeekday {
+	background: #606060;
+	color: white;
+	padding: 3px;
+	width: 14%;
+	text-align: center;
+	font-weight: bold;
+	font-family: arial;
+	font-size : 11px;
+}
+
+/* outer tag for working days */
+.calWorkday {
+	border: #CCCCCC;
+	text-align: center;
+	background: #ffffff;
+	padding: 3px;
+}
+/* outer tag for weekend days */
+.calWeekend {
+	border: #CCCCCC;
+	text-align: center;
+	background: #CCCCCC;
+	padding: 3px;
+}
+/* outer tag for selected date */
+.calCurrent {
+	border: #336699;
+	text-align: center;
+	background: #99CCFF;
+	padding: 3px;
+}
+/* inner tag for past days */
+.calPast {
+	color: #909090;
+	font-family: arial;
+	font-size : 11px;
+	text-decoration : none;
+}
+/* inner tag for future days */
+.calFuture {
+	color: green;
+	font-family:arial;
+	font-size : 11px;
+	text-decoration : none;
+}
+/* inner tag for past days of another month */
+.calPastOther {
+	color: #909090;
+	font-family: arial;
+	font-size : 11px;
+	text-decoration : none;
+}
+/* inner tag for future days another month */
+.calFutureOther {
+	color: #000000;
+	font-family: arial;
+	font-size : 11px;
+	text-decoration : none;
+}
+
+/* date selection listboxes */
+.calListbox {
+	font-family: arial;
+	font-size : 11px;
+}
+/* -------------------------------------------------------------------------------- */
